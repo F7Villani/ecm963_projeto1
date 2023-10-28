@@ -1,6 +1,8 @@
 import 'dart:io';
 import 'dart:math';
-import 'dice.dart';
+
+import 'package:main/dice.dart';
+
 
 main() async {
 
